@@ -24,3 +24,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+
+![./src/assets/images/1.jpg](E:\桌面\新建文件夹\rabbit-ts\src\assets\images\1.jpg)
+
+![./src/assets/images/1.jpg](E:\桌面\新建文件夹\rabbit-ts\src\assets\images\2.jpg)

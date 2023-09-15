@@ -18,7 +18,7 @@
     </dl>
   </div>
 </template>
-<script lang="ts">
+<script>
 import { watchEffect } from 'vue';
 import getPowerSet from './power-set.js';
 const spliter = '★';
