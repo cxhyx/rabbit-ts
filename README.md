@@ -25,8 +25,7 @@ npm run dev
 npm run build
 ```
 
+![h](https://img-blog.csdnimg.cn/5b35ee78898649a982aa4ac6aba5645b.jpeg)
 
+![1](https://img-blog.csdnimg.cn/31dac7f8653d4eed80704365d0952f60.jpeg)
 
-![./src/assets/images/1.jpg](E:\桌面\新建文件夹\rabbit-ts\src\assets\images\1.jpg)
-
-![./src/assets/images/1.jpg](E:\桌面\新建文件夹\rabbit-ts\src\assets\images\2.jpg)
